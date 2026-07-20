@@ -10,6 +10,10 @@ Me chamo José Guilherme, tenho 27 anos, sou um desenvolvedor Full Stack, já ap
 Estou começando a aprender javascript e react
 Tenho certificado de Analista em Cybersegurança Junior pela Cisco Networking Academy
 Estou em busca do meu primeiro emprego na area de desenvolvedor Full stack.
+ Se conecte comigo:
+ <p>
+      <a href:"www.linkedin.com/in/josé-guilherme-alves0012"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+ </p>
 
 <!--
 **Guilherme00212/Guilherme00212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
