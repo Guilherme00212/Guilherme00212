@@ -12,7 +12,7 @@ Tenho certificado de Analista em Cybersegurança Junior pela Cisco Networking Ac
 Estou em busca do meu primeiro emprego na area de desenvolvedor Full stack.
  Se conecte comigo:
  <p>
-      <a href:"www.linkedin.com/in/josé-guilherme-alves0012"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+      <a href:"www.linkedin.com/in/josé-guilherme-alves0012"> Linkedin</a> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </p>
 
 <!--
